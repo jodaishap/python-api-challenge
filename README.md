@@ -65,8 +65,6 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
-
 ## Hints and Considerations
 
 * The city data is generated based on random coordinates as well as different times of the year; as such, your outputs will not be an exact match to the provided starter notebook.
